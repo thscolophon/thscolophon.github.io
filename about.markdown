@@ -16,4 +16,4 @@ permalink: /about/
 <p style="padding-left: 30px;">Associate Editors: Lily Baldus &rsquo;27, Priscilla Le &rsquo;27, &amp; Clay Schultz &lsquo;27</p>
 <p style="padding-left: 30px;">Editor-in-Chief Emeritus: Minhae Eaton &lsquo;26</p>
 <p style="padding-left: 30px;">Art Editor-in-Chief Emeritus: Max Gerber &lsquo;26</p>
-<p style="padding-left: 30px;">Faculty Adviser: Mr. Szymanowski</p>
+<p style="padding-left: 30px;">Faculty Advisor: Mr. Szymanowski</p>
