@@ -76,6 +76,11 @@
         {% endif %}
 
         <p>{{ site.description | newline_to_br }}</p>
+        <nav class="nav-links">
+            {%- for page in site.pages -%}
+            <a href="{{ page.url }}">{{ page.title | escape }}</a>
+            {%- endfor -%}
+        </nav>
       </header>
       <section>
       {{ content }}
