@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Form
-permalink: /form/
+title: Submit
+permalink: /submit/
 ---
 
 <div style="width:100%;height:500px;"
