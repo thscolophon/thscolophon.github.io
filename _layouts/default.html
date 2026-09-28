@@ -76,13 +76,6 @@
         {% endif %}
 
         <p>{{ site.description | newline_to_br }}</p>
-
-        <nav class="nav-links">
-            {%- for page in site.pages -%}
-            <a href="{{ page.url }}">{{ page.title | escape }}</a>
-            {%- endfor -%}
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeue2WTupdXOr2cLhJDbk3SunPgwkadx-4XUrakSkAHq27p3w/viewform" target="_blank">Submit</a>
-        </nav>
       </header>
       <section>
       {{ content }}
