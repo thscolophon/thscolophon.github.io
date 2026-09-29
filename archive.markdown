@@ -76,6 +76,7 @@ permalink: /archive/
                 <option value="/source/pdfs/Colophon_2023_Volume_57.pdf">Colophon 2023 Volume 57</option>
                 <option value="/source/pdfs/Colophon_2024_Volume_58.pdf">Colophon 2024 Volume 58</option>
                 <option value="/source/pdfs/Colophon_2025_Volume_59.pdf">Colophon 2025 Volume 59</option>
+                <option value="/source/pdfs/Colophon_2026_Volume_60.pdf">Colophon 2026 Volume 60</option>
             </select>
         </div>
         
